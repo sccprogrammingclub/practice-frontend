@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 14px;
+}
+
+body {
+    background-color: #1877f2;
+    color: #f1f1f1;
+}
+
+h1, h3, h5 {
+    font-size: 5rem;
+}
+
+div > section > p {
+    color: saddlebrown;
+    font-size: 2rem;
+}
